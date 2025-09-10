@@ -1,1 +1,10 @@
-hello I Am Bhaskar
+<!doctype html>
+<html>
+<head>
+<title>CI/CD</title>
+</head>
+<body>
+<h1 style="color:violet;text-align: center";>Welcome bhaskar</h1>
+<p>This is a sample statement</p>
+</body>
+</html>
